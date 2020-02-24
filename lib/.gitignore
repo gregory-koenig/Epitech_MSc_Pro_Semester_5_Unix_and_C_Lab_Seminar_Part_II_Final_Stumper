@@ -1,0 +1,28 @@
+# Compiled files
+*.a
+*.gch
+*.o
+*.out
+*.so
+main
+unit_tests
+rush3
+rush1-*
+
+# Test files
+*.gcda
+*.gcno
+
+# Temp files
+*~
+\#*#
+*.d
+
+# Ignore IDE
+.idea
+
+# System files
+._*
+.DS_Store
+Desktop.ini
+Thumbs.db
